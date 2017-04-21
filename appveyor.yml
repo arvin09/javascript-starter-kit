@@ -1,8 +1,8 @@
-# Test against the version of Node.js
-environment:
-  matrix:
-  # node.js
-  - nodejs_version: "5"
+  # Test against the version of Node.js
+  environment:
+    matrix:
+    # node.js
+    - nodejs_version: "5"
 
   # Install scripts. (run after repo cloning)
   install:
