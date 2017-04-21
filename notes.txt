@@ -1,1 +1,3 @@
-use .editorconfig to make sure everyone has the same formatting 
+use .editorconfig to make sure everyone has the same formatting
+use node security project to scan the packages for security vulnerabilities
+
